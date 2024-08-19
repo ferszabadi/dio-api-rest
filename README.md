@@ -1,6 +1,6 @@
-# Bootcamp GFT - GFT - Desenvolvimento Java com IA
+# Bootcamp GFT - Desenvolvimento Java com IA
 
-Desafio de projeto "Publicando Sua API REST na Nuvem Usando Spring Boot 3, Java 17 e Railway".
+Desafio de projeto "Publicando Sua API REST na Nuvem Usando Spring Boot 3, Java 17 e Railway" da plataforma [Digital Innovation One (DIO)](https://www.dio.me/).
 
 ## Principais Tecnologias
 
